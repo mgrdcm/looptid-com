@@ -1,22 +1,14 @@
 body
 {
-    font-family: Helvetica;
+    font-family: Helvetica, "Trebuchet MS", sans-serif, "Comic Sans MS";
     background-color: white;
-}
-img
-{
-    border-width: 0px;
 }
 h2
 {
     border-top: 1px solid #001E2D;
 }
-#validator
-{
-    float: right;
-}
 pre.lyrics
 {
     white-space: pre-line;
-    font-family: "Courier New", "Courier", "monospace";
+    font-family: "Courier New", "Courier", monospace;
 }
